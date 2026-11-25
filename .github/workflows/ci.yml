@@ -1,0 +1,46 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Tests
+        run: npm test
+
+      - name: Public check
+        run: node scripts/check-public.mjs
+
+      - name: Demo runs
+        run: |
+          set +e
+          node gate.mjs sample/bad-list.csv
+          bad=$?
+          set -e
+          test "$bad" -eq 1
+          test ! -e sample/bad-list.gated.csv
+          node gate.mjs sample/good-list.csv
+          test -s sample/good-list.gated.csv
+          test -s sample/good-list.receipt.json
+
+      - name: Secret scan (gitleaks)
+        env:
+          GITLEAKS_VERSION: 8.30.1
+        run: |
+          curl -sSfL "https://github.com/gitleaks/gitleaks/releases/download/v${GITLEAKS_VERSION}/gitleaks_${GITLEAKS_VERSION}_linux_x64.tar.gz" | tar -xz gitleaks
+          ./gitleaks git --redact --exit-code 1 .
+          ./gitleaks dir --redact --exit-code 1 .

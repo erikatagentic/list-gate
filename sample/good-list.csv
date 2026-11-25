@@ -1,0 +1,31 @@
+email,first_name,last_name,full_name,company,company_domain,title,employee_count,city
+acorrigan@pinecrest.example,Abel,Corrigan,Abel Corrigan,Pinecrest Bookkeeping,https://www.pinecrest.example/about,Founder,12,Portland
+bsorrell@harborlight.example,Bettina,Sorrell,Bettina Sorrell,"Harborlight Legal, PLLC",harborlight.example,Managing Partner,42,Austin
+cwakeling@tallgrass.example,Cyrus,Wakeling,Cyrus Wakeling,tallgrass creative,tallgrass.example,CEO,70,Denver
+darkwright@westbrookroofing.example,Delphine,Arkwright,Delphine Arkwright,Westbrook Holdings LLC dba Westbrook Roofing,westbrookroofing.example,Owner,140,Raleigh
+ebellamyrhys@oriel.example,Emmett,Bellamy-Rhys,Emmett Bellamy-Rhys,Oriel Engineering,oriel.example,Principal,380,Madison
+ftolliver@blackthorn.example,Freya,Tolliver,Freya Tolliver,Blackthorn Advisory,https://www.blackthorn.example/about,Head of Operations,35,Tucson
+gpenrose@cloudberry.example,Gareth,Penrose,Gareth Penrose,Cloudberry Clinics,cloudberry.example,Director,60,Boise
+info@dunmore.example,Hester,Quayle,Hester Quayle,Dunmore Logistics,dunmore.example,President,110,Richmond
+iraskin@elmstead.example,Ivo,Raskin,Ivo Raskin,"Elmstead Partners, Inc.",elmstead.example,Founder,275,Portland
+jsaltonstall@foxglove.example,Jemima,Saltonstall,Jemima Saltonstall,Foxglove Media,foxglove.example,Managing Partner,27,Austin
+ktrevelyan@gullwing.example,Kasper,Trevelyan,Kasper Trevelyan,Gullwing Software,https://www.gullwing.example/about,CEO,51,Denver
+lvandermeer@highmoor.example,Lucia,Vandermeer,Lucia Vandermeer,Highmoor Architects,highmoor.example,Owner,90,Raleigh
+mwhitlow@pinecrest.example,Magnus,Whitlow,Magnus Whitlow,Pinecrest Bookkeeping,pinecrest.example,Principal,210,Madison
+nashdown@harborlight.example,Nell,Ashdown,Nell Ashdown,"Harborlight Legal, PLLC",harborlight.example,Head of Operations,18,Tucson
+oblakemore@tallgrass.example,Otto,Blakemore,Otto Blakemore,tallgrass creative,tallgrass.example,Director,44,Boise
+pcrowther@westbrookroofing.example,Pippa,Crowther,Pippa Crowther,Westbrook Holdings LLC dba Westbrook Roofing,https://www.westbrookroofing.example/about,President,76,Richmond
+qdunleavy@oriel.example,Quentin,Dunleavy,Quentin Dunleavy,Oriel Engineering,oriel.example,Founder,160,Portland
+rellingham@blackthorn.example,Rhea,Ellingham,Rhea Ellingham,Blackthorn Advisory,blackthorn.example,Managing Partner,450,Austin
+sfairweather@cloudberry.example,Silas,Fairweather,Silas Fairweather,Cloudberry Clinics,cloudberry.example,CEO,38,Denver
+tgillow@dunmore.example,Tamsin,Gillow,Tamsin Gillow,Dunmore Logistics,dunmore.example,Owner,64,Raleigh
+uhadley@elmstead.example,Umar,Hadley,Umar Hadley,"Elmstead Partners, Inc.",https://www.elmstead.example/about,Principal,125,Madison
+vinglewood@foxglove.example,Vera,Inglewood,Vera Inglewood,Foxglove Media,foxglove.example,Head of Operations,320,Tucson
+wjarrow@gullwing.example,Wystan,Jarrow,Wystan Jarrow,Gullwing Software,gullwing.example,Director,31,Boise
+xkeswick@highmoor.example,Ximena,Keswick,Ximena Keswick,Highmoor Architects,highmoor.example,President,55,Richmond
+ylockridge@pinecrest.example,Yusuf,Lockridge,Yusuf Lockridge,Pinecrest Bookkeeping,pinecrest.example,Founder,97,Portland
+zmortlake@harborlight.example,Zelda,Mortlake,Zelda Mortlake,"Harborlight Legal, PLLC",https://www.harborlight.example/about,Managing Partner,240,Austin
+anetherby@tallgrass.example,Anouk,Netherby,Anouk Netherby,tallgrass creative,tallgrass.example,CEO,23,Denver
+boldcastle@westbrookroofing.example,Benedikt,Oldcastle,Benedikt Oldcastle,Westbrook Holdings LLC dba Westbrook Roofing,westbrookroofing.example,Owner,47,Raleigh
+cpendleton@oriel.example,Coralie,Pendleton,Coralie Pendleton,Oriel Engineering,oriel.example,Principal,83,Madison
+dquenby@blackthorn.example,Darius,Quenby,Darius Quenby,Blackthorn Advisory,blackthorn.example,Head of Operations,185,Tucson

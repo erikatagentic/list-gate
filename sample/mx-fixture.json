@@ -1,0 +1,228 @@
+{
+  "note": "Made-up MX answers for the sample lists. Real provider host names carry an extra .example suffix so the sample holds no real domains; the classifier only looks for the provider signature inside the host name. A domain mapped to {\"error\": CODE} is a lookup that failed; [] means no mail server.",
+  "mx": {
+    "lanternmoss.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "quillfern.example": {
+      "error": "ESERVFAIL"
+    },
+    "copperleaf.example": [
+      "mx1.copperleaf.example",
+      "mx2.copperleaf.example"
+    ],
+    "brightkettle.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "northfold.example": [
+      "northfold-example.mail.protection.outlook.com.example"
+    ],
+    "saltgrass.example": [
+      "mx1.saltgrass.example",
+      "mx2.saltgrass.example"
+    ],
+    "tidewell.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "hollowpine.example": [
+      "hollowpine-example.mail.protection.outlook.com.example"
+    ],
+    "ravelstone.example": [
+      "mx1.ravelstone.example",
+      "mx2.ravelstone.example"
+    ],
+    "emberfield.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "marigoldloop.example": [
+      "marigoldloop-example.mail.protection.outlook.com.example"
+    ],
+    "ironvale.example": [
+      "mx1.ironvale.example",
+      "mx2.ironvale.example"
+    ],
+    "pebblecrest.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "windrose.example": [
+      "windrose-example.mail.protection.outlook.com.example"
+    ],
+    "mapleshade.example": [
+      "mx1.mapleshade.example",
+      "mx2.mapleshade.example"
+    ],
+    "cobaltfin.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "driftwoodpike.example": [
+      "driftwoodpike-example.mail.protection.outlook.com.example"
+    ],
+    "silverbirch.example": [
+      "mx1.silverbirch.example",
+      "mx2.silverbirch.example"
+    ],
+    "thornbury.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "glasswing.example": [
+      "glasswing-example.mail.protection.outlook.com.example"
+    ],
+    "ambermoor.example": [
+      "mx1.ambermoor.example",
+      "mx2.ambermoor.example"
+    ],
+    "larchmontsignal.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "heronsgate.example": [
+      "heronsgate-example.mail.protection.outlook.com.example"
+    ],
+    "fogbell.example": [
+      "mx1.fogbell.example",
+      "mx2.fogbell.example"
+    ],
+    "juniperridge.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "kestrelpoint.example": [
+      "kestrelpoint-example.mail.protection.outlook.com.example"
+    ],
+    "owlbrook.example": [
+      "mx1.owlbrook.example",
+      "mx2.owlbrook.example"
+    ],
+    "redfernclinics.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "sablewood.example": [
+      "sablewood-example.mail.protection.outlook.com.example"
+    ],
+    "starlingyard.example": [
+      "mx1.starlingyard.example",
+      "mx2.starlingyard.example"
+    ],
+    "tumbleweed.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "underbridge.example": [
+      "underbridge-example.mail.protection.outlook.com.example"
+    ],
+    "violethour.example": [
+      "mx1.violethour.example",
+      "mx2.violethour.example"
+    ],
+    "wildoak.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "yellowfield.example": [
+      "yellowfield-example.mail.protection.outlook.com.example"
+    ],
+    "apricotharbor.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "bluepeak.example": [
+      "bluepeak-example.mail.protection.outlook.com.example"
+    ],
+    "cinderhill.example": [
+      "mx1.cinderhill.example",
+      "mx2.cinderhill.example"
+    ],
+    "dovetailjoinery.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "eastwind.example": [
+      "eastwind-example.mail.protection.outlook.com.example"
+    ],
+    "fernhollow.example": [
+      "mx1.fernhollow.example",
+      "mx2.fernhollow.example"
+    ],
+    "graniteowl.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "hazelmere.example": [
+      "hazelmere-example.mail.protection.outlook.com.example"
+    ],
+    "inkwell.example": [
+      "mx1.inkwell.example",
+      "mx2.inkwell.example"
+    ],
+    "jadeport.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "knotgrass.example": [
+      "knotgrass-example.mail.protection.outlook.com.example"
+    ],
+    "lumenfold.example": [
+      "mx1.lumenfold.example",
+      "mx2.lumenfold.example"
+    ],
+    "moonrake.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "nightjar.example": [
+      "nightjar-example.mail.protection.outlook.com.example"
+    ],
+    "pinecrest.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "harborlight.example": [
+      "harborlight-example.mail.protection.outlook.com.example"
+    ],
+    "tallgrass.example": [
+      "mx1.tallgrass.example",
+      "mx2.tallgrass.example"
+    ],
+    "westbrookroofing.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "oriel.example": [
+      "oriel-example.mail.protection.outlook.com.example"
+    ],
+    "blackthorn.example": [
+      "mx1.blackthorn.example",
+      "mx2.blackthorn.example"
+    ],
+    "cloudberry.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "dunmore.example": [
+      "dunmore-example.mail.protection.outlook.com.example"
+    ],
+    "elmstead.example": [
+      "mx1.elmstead.example",
+      "mx2.elmstead.example"
+    ],
+    "foxglove.example": [
+      "aspmx.l.google.com.example",
+      "alt1.aspmx.l.google.com.example"
+    ],
+    "gullwing.example": [
+      "gullwing-example.mail.protection.outlook.com.example"
+    ],
+    "highmoor.example": [
+      "mx1.highmoor.example",
+      "mx2.highmoor.example"
+    ]
+  }
+}
